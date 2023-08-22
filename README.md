@@ -16,7 +16,7 @@ R// 2 instancias
 R// 4 - nombre, genero, peso y pareja
 
 - ¿Cuáles atributos de la clase Animal no son primitivos?
-R// Todos son envolturas
+R// Todos son envolturas, ninguno es primitivo
 
 - ¿Qué pasa si eliminamos la línea 17 de la clase Zoologico? ?
 R// Se rompe la sintaxis de clase
